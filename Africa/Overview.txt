@@ -1,0 +1,1 @@
+This folder contains a shapefile for just the continent of Africa. There will be an accompanying data file with information of area, population, religion, GDP, ethnicity, and others.
